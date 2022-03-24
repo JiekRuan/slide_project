@@ -1,1 +1,1 @@
-# [clique ici pour voir la page](https://github.com/JiekRuan/slide_project/)
+# [clique ici pour voir la page](https://jiekruan.github.io/slide_project/)
